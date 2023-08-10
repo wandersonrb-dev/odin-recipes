@@ -17,6 +17,18 @@ body {
     gap: 40px;
 }
 
+.banner {
+    display: flex;
+    justify-content: center;
+    margin: 40px auto;
+}
+
+img {
+    max-width: 70%;
+    box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, .1);
+    border-radius: 4px;
+}
+
 .logo {
     font-family: 'Lobster', cursive;
     font-size: 48px;
