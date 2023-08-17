@@ -1,0 +1,21 @@
+.recipe-description {
+    display: flex;
+    gap: 60px;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.recipe-image {
+    max-width: 50%;
+}
+
+.description .title {
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-size: 28px;
+}
+
+.text p {
+    line-height: 1.4;
+    font-size: 16px;
+}
